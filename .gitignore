@@ -1,0 +1,7 @@
+# Raw export is ~160 MB, too large for GitHub; download it from NYC Open Data (see README)
+data/raw/
+# Rebuilt by src/clean_data.py
+data/*.db
+__pycache__/
+.DS_Store
+*.twbr

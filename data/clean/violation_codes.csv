@@ -1,0 +1,114 @@
+violation_code,description,critical
+02A,"Time/Temperature Control for Safety (TCS) food not cooked to required minimum internal temperature.   • Poultry, poultry parts, ground and comminuted poultry, all stuffing containing poultry, meats, fish or ratites to or above 165 °F for 15 seconds with no interruption of the cooking process   • Ground meat, and food containing ground and comminuted meat, to or above 158 °F for 15 seconds with no interruption of the cooking process, except per individual customer request  • Pork, any food containing pork to or above 150 °F for 15 seconds  • Mechanically tenderized or injected meats to or above 155 °F.  • Whole meat roasts and beef steak to or above required temperature and time except per individual customer request  • Raw animal foods cooked in microwave to or above165 °F, covered, rotated or stirred   • All other foods to or above 140 °F for 15 seconds; shell eggs to or above 145 °F for 15 seconds except per individual customer request.",Critical
+02B,Hot TCS food item not held at or above 140 °F.,Critical
+02C,Hot TCS food item that has been cooked and cooled is being held for service without first being reheated to 165º F or above within 2 hours.,Critical
+02D,Commercially processed pre-cooked TCS in hermetically sealed containers and precooked TCS in intact packages from non-retail food processing establishments not heated to 140 °F within 2 hours of removal from container or package.,Critical
+02F,"Meat, fish, molluscan shellfish, unpasteurized raw shell eggs, poultry or other TCS offered or served raw or undercooked and written notice not provided to consumer.",Critical
+02G,Cold TCS food item held above 41 °F; smoked or processed fish held above 38 °F; intact raw eggs held above 45 °F; or reduced oxygen packaged (ROP) TCS foods held above required temperatures except during active necessary preparation.,Critical
+02H,"After cooking or removal from hot holding, TCS food not cooled by an approved method whereby the internal temperature is reduced from 140 °F to 70 °F or less within 2 hours, and from 70 °F to 41 °F or less within 4 additional hours.",Critical
+02I,TCS food removed from cold holding or prepared from or combined with ingredients at room temperature not cooled by an approved method to 41 °F or below within 4 hours.,Critical
+03A,"Food, prohibited, from unapproved or unknown source, home canned or home prepared. Animal slaughtered, butchered or dressed (eviscerated, skinned) in establishment. Reduced Oxygen Packaged (ROP) fish not frozen before processing. ROP food prepared on premises transported to another site.",Critical
+03B,"Shellfish not from approved source, not or improperly tagged/labeled; tags not retained for 90 days.",Critical
+03C,"Unclean or cracked whole eggs or unpasteurized liquid, frozen or powdered eggs kept or used.",Critical
+03D,"Food package (including canned food product or hermetically sealed container) not in good condition to the degree contents are not suitable for human consumption. Package is swollen, leaking or rusted, without “DO NOT USE” label or not segregated from consumable food items.",Critical
+03E,No or inadequate potable water supply. Water or ice not potable or from unapproved source. Bottled water not NY State certified. Cross connection in potable water supply system.,Critical
+03F,Unpasteurized milk or milk product (except certain aged cheese) served.,Critical
+03G,Raw fruit or vegetable not properly washed prior to cutting or serving.,Critical
+03I,"Juice packaged on premises with no or incomplete label, no warning statement",Critical
+04A,Food Protection Certificate (FPC) not held by manager or supervisor of food operations.,Critical
+04B,Food worker or vendor working or is knowingly or negligently permitted to work in FSE while afflicted with infected wound or reportable communicable disease. No spitting allowed. Spitting anywhere in the establishment is prohibited.,Critical
+04C,Food worker/food vendor does not use utensil or other barrier to eliminate bare hand contact with food that will not receive adequate additional heat treatment.,Critical
+04D,"Food worker/food vendor does not wash hands thoroughly after using the toilet, or after coughing, sneezing, smoking, eating, preparing raw foods or otherwise contaminating hands or does not change gloves when required; Worker fails to refrain from smoking or being fully clothed in clean outer garments.",Critical
+04E,Toxic chemical or pesticide improperly stored or used such that food contamination may occur.,Critical
+04F,"Food preparation area, food storage area, or other area used by employees or patrons, contaminated by sewage or liquid waste.",Critical
+04H,"Raw, cooked or prepared food is adulterated, contaminated, cross-contaminated, or not discarded in accordance with HACCP plan.",Critical
+04I,Non-TCS food that has been served to the public being re-served. (Does not apply to wrapped foods where the wrapper seal has not been broken or opened).,Critical
+04J,"Properly scaled and calibrated thermometer or thermocouple not provided or not readily accessible in food preparation and hot/cold holding areas to measure temperatures of TCS foods during cooking, cooling, reheating, and holding.",Critical
+04K,Evidence of rats or live rats in establishment's food or non-food areas.,Critical
+04L,Evidence of mice or live mice in establishment's food or non-food areas.,Critical
+04M,Live roaches in facility's food or non-food area.,Critical
+04N,"Filth flies or food/refuse/sewage associated with (FRSA) flies or other nuisance pests in establishment’s food and/or non-food areas. FRSA flies include house flies, blow flies, bottle flies, flesh flies, drain flies, Phorid flies and fruit flies.",Critical
+04O,Live animal other than fish in tank or service animal present in facility’s food or non-food area.,Critical
+04P,"Food containing a prohibited substance held, kept, offered, prepared, processed, packaged, or served.",Critical
+05A,"Sewage disposal system is not provided, improper, inadequate or unapproved.",Critical
+05B,Harmful noxious gas or vapor detected. Carbon Monoxide (CO) level exceeds nine (9) ppm,Critical
+05C,"Food contact surface, refillable, reusable containers, or equipment improperly constructed, placed or maintained. Unacceptable material used. Culinary sink or other acceptable method not provided for washing food.",Critical
+05D,"No hand washing facility in or adjacent to toilet room or within 25 feet of a food preparation, food service or ware washing area. Hand washing facility not accessible, obstructed or used for non-hand washing purposes. No hot and cold running water or water at inadequate pressure. No soap or acceptable hand-drying device.",Critical
+05E,"Toilet facility not provided for employees or for patrons when required. Shared patron-employee toilet accessed through kitchen, food prep or storage area or utensil washing area.",Critical
+05F,"Insufficient or no hot holding, cold storage or cold holding equipment provided to maintain Time/Temperature Control for Safety Foods (TCS) at required temperatures",Critical
+05H,No approved written standard operating procedure for avoiding contamination by refillable returnable containers.,Critical
+06A,Personal cleanliness is inadequate. Outer garment soiled with possible contaminant. Effective hair restraint not worn where required. Jewelry worn on hands or arms. Fingernail polish worn or fingernails not kept clean and trimmed.,Critical
+06B,"Tobacco or electronic cigarette use, eating, or drinking from open container in food preparation, food storage or dishwashing area.",Critical
+06C,"Food, supplies, or equipment not protected from potential source of contamination during storage, preparation, transportation, display, service or from customer’s refillable, reusable container. Condiments not in single-service containers or dispensed directly by the vendor.",Critical
+06D,"Food contact surface not properly washed, rinsed and sanitized after each use and following any activity when contamination may have occurred.",Critical
+06E,"Sanitized equipment or utensil, including in-use food dispensing utensil, improperly used or stored.",Critical
+06F,"Wiping cloths not stored clean and dry, or in a sanitizing solution, between uses.",Critical
+06G,HACCP plan not approved or approved HACCP plan not maintained on premises.,Critical
+06H,Records and logs not maintained to show that approved HACCP plan has been properly implemented.,Critical
+06I,Food not labeled in accordance with the approved HACCP plan,Critical
+07A,Duties of an officer of the Department interfered with or obstructed.,Critical
+08A,"Establishment is not free of harborage or conditions conducive to rodents, insects or other pests.",Not Critical
+08B,"Garbage receptacle not pest or water resistant, with tight-fitting lids, and covered except while in active use. Garbage receptacle and cover not cleaned after emptying and prior to reuse. Garbage, refuse and other solid and liquid waste not collected, stored, removed and disposed of so as to prevent a nuisance.",Not Critical
+08C,"Pesticide not properly labeled or used by unlicensed individual. Pesticide, other toxic chemical improperly used/stored. Unprotected, unlocked bait station used.",Not Critical
+09A,"Swollen, leaking, rusted or otherwise damaged canned food to be returned to distributor not segregated from intact product and clearly labeled DO NOT USE",Not Critical
+09B,Thawing procedure improper.,Not Critical
+09C,"Design, construction, materials used or maintenance of food contact surface improper. Surface not easily cleanable, sanitized and maintained.",Not Critical
+09D,Food service operation occurring in room or area used as living or sleeping quarters.,Not Critical
+09E,Wash hands sign not posted near or above hand washing sink.,Not Critical
+10A,"Toilet facility not maintained or provided with toilet paper, waste receptacle or self-closing door.",Not Critical
+10B,Anti-siphonage or back-flow prevention device not provided where required; equipment or floor not properly drained; sewage disposal system in disrepair or not functioning properly. Condensation or liquid waste improperly disposed of.,Not Critical
+10C,"Lighting inadequate; permanent lighting not provided in food preparation areas, ware washing areas, and storage rooms. Shatterproof bulb or shield to prevent broken glass from falling into food or onto surfaces, not installed.",Not Critical
+10D,"Mechanical or natural ventilation not provided, inadequate, improperly installed, in disrepair or fails to prevent and control excessive build-up of grease, heat, steam condensation, vapors, odors, smoke or fumes.",Not Critical
+10E,"Accurate thermometer not provided or properly located in refrigerated, cold storage or hot holding equipment",Not Critical
+10F,"Non-food contact surface or equipment made of unacceptable material, not kept clean, or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit.",Not Critical
+10G,"Dishwashing and ware washing: Cleaning and sanitizing of tableware, including dishes, utensils, and equipment deficient.",Not Critical
+10H,"Single service article not provided. Single service article reused or not protected from contamination when transported, stored, dispensed. Drinking straws not completely enclosed in wrapper or dispensed from a sanitary device.",Not Critical
+15-01,Smoking or electronic cigarette use allowed in prohibited area,Not Applicable
+15-17,"Sale of tobacco products, herbal cigarettes, liquid nicotine, shisha, rolling papers or smoking paraphernalia to minors prohibited",Not Applicable
+15-21,"Flavored tobacco products sold, offered for sale",Not Applicable
+15-22,Original label for smoking products sold or offered for sale.,Not Applicable
+15-26,"""No Smoking"" sign not posted with ashtrays in hotel or motels, or at hotel or motels entrances.",Not Applicable
+15-27,Sign prohibiting smoking or using electronic cigarettes not conspicuously posted.,Not Applicable
+15-32,Warning sign re dangers of hookah smoking not posted at or on each public entryway to Non-Tobacco Hookah Establishment (NTHE) patron,Not Applicable
+15-33,Warning sign re dangers of hookah smoking not posted in each room or area of Non-Tobacco Hookah Establishment (NTHE) where smoking is allowed,Not Applicable
+15-36,Sign prohibiting entry of persons under 21 years of age not posted at public entryway to Non-Tobacco Hookah Establishment (NTHE),Not Applicable
+15-37,Workplace SFAA policy not prominently posted in workplace.,Not Applicable
+15-39,Ashtray present in smoke-free area.,Not Applicable
+15-42,"Failure to make a good faith effort to inform smokers or electronic cigarette users of Smoke-Free Air Act (""SFAA"") prohibitions",Not Applicable
+16-01,"A food containing artificial trans-fat, with 0.5 grams or more of trans fat per serving, is being stored, distributed, held for service, used in preparation of a menu item, or served.",Not Applicable
+16-02,"The original nutrition fact labels or ingredient label for a cooking oil, shortening or margarine or food item sold in bulk, or acceptable manufacturer’s documentation not maintained on site.",Not Applicable
+16-03,"Caloric content not posted on menus, menu boards or food tags, in a food service establishment that is 1 of 15 or more outlets operating the same type of business nationally under common ownership or control, or as a franchise or doing business under the same name, for each menu item that is served in portions, the size and content of which are standardized.",Not Applicable
+16-04,"Required succinct nutritional statements not posted on menu(s) for adults and children (2,000 calories per day for adults)",Not Applicable
+16-06,"Additional nutritional information statement not posted, or additional nutritional information not provided",Not Applicable
+16-08,"Sodium Warning icon not posted on menus, menu boards or food tags for food items that contain 2300mg or more of sodium in a food service establishment that is 1 of 15 or more outlets operating the same type of business nationally under common ownership or control, or as a franchise or doing business under the same name, for each menu item that is served in portions, the size and content of which are standardized",Not Applicable
+16-09,"Sodium Warning icon posted on menus, menu boards or food tags for food items that contain 2300mg or more of sodium is not a black and white equilateral triangle; or the equilateral triangle is not as wide as it is tall, or is not equal in height to the largest letter in the food item’s name, as displayed on the menu, menu board, or tag.",Not Applicable
+16-10,Sodium Warning statement not posted conspicuously at the point of purchase. “Warning: [icon image] indicates that the sodium (salt) content of this item is higher than the total daily recommended limit (2300 mg). High sodium intake can increase blood pressure and risk of heart disease and stroke.”,Not Applicable
+16-11,Prohibited drink listed on children's meal menu,Not Applicable
+18-11,Food Protection Certificate not available for inspection,Not Critical
+18-12,"Document issued by the Board of Health, Commissioner or Department reproduced or altered. False, untrue or misleading statement or document made to, submitted or filed with the Department",Not Critical
+18-13,"Failure to comply with an order of the Board of Health, Commissioner or Department.",Not Critical
+18-14,"Order or notice posted or required to be posted by the Department mutilated, obstructed or removed.",Not Critical
+19-01,Organics mixed with non-organic material,Not Critical
+19-02,Organics containers not labeled,Not Critical
+19-03,Failure to post signage in organics collection area.,Not Critical
+19-04,Expanded Polystyrene (EPS) single service article not designated as a recyclable material.,Not Critical
+19-05,Providing single-use plastic stirrers or single-use plastic splash sticks.,Not Critical
+19-06,"Providing single-use, non-compostable plastic straws to customers without customer request (including providing such straws at a self-serve station)",Not Critical
+19-07,"Failure to maintain a sufficient supply of single-use, non-compostable plastic straws.",Not Critical
+19-08,"Failure to provide a single-use, non-compostable plastic straw upon request.",Not Critical
+19-10,Failure to display required signage about plastic straw availability,Not Critical
+19-11,Providing compostable plastic straws to be used outside of the food establishment’s premises; failure to appropriately dispose of compostable plastic straws; failure to maintain required bins for disposal of compostable plastic straws.,Not Critical
+20-01,Allergen or intolerance notice not translated into common language when required,Not Critical
+20-02,Failure to conspicuously post a hyperlink to the Department’s inspection lookup tool as required.,Not Critical
+20-03,Food allergy poster not approved by the Department of Health and Mental Hygiene.,Not Critical
+20-04,"“Choking first aid” poster not posted. “Alcohol and Pregnancy” warning sign not posted. Resuscitation equipment: exhaled air resuscitation masks (adult & pediatric), latex gloves, sign not posted.",Not Critical
+20-05,"Current letter grade or ""Grade Pending"" card not conspicuously posted or visible to passersby",Not Critical
+20-06,Current letter grade or Grade Pending card not posted,Not Critical
+20-07,"Letter grade or Grade Pending card removed, destroyed, modified, obscured, or otherwise tampered with",Not Critical
+20-08,Failure to post or conspicuously post healthy eating information,Not Critical
+28-01,"Nuisance created or allowed to exist. Facility not free from unsafe, hazardous, offensive or annoying condition.",Not Critical
+28-03,"Lighting fixture located over, by or within food storage, preparation, service or display facility, and facility where utensils and equipment are cleaned and stored, which may shatter due to extreme heat, temperature changes or accidental contact; not fitted with shatterproof bulb or shielded and encased, with end caps or other device.",Not Critical
+28-04,Equipment used for ROP not approved by the Department,Not Critical
+28-05,"Food adulterated or misbranded. Adulterated or misbranded food possessed, being manufactured, produced, packed, sold, offered for sale, delivered or given away",Not Critical
+28-06,Contract with a pest management professional not in place. Record of extermination activities not kept on premises.,Not Critical
+28-07,"Unapproved outdoor, street or sidewalk cooking.",Not Critical

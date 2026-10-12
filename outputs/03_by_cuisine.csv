@@ -1,0 +1,30 @@
+cuisine,restaurants,initial_inspections,avg_initial_score,pct_c_range,pct_closed
+Indian,244,446,25.0,33.6,4.04
+Thai,277,508,23.4,31.7,2.95
+Asian/Asian Fusion,338,589,23.2,30.9,3.06
+Caribbean,617,1350,22.9,29.4,3.78
+Latin American,914,1920,21.5,27.7,1.51
+Spanish,365,703,21.4,25.5,1.56
+Chinese,1790,3474,21.1,25.8,2.76
+Korean,327,562,20.5,24.0,1.78
+Jewish/Kosher,280,536,20.2,26.5,2.24
+Middle Eastern,210,369,19.8,20.1,3.25
+Mexican,897,1712,19.0,22.4,1.29
+Japanese,809,1363,18.8,19.6,1.69
+Bagels/Pretzels,196,481,18.5,18.9,1.87
+Seafood,193,337,18.3,18.7,0.89
+Italian,832,1495,18.1,18.7,0.47
+Irish,187,355,18.0,16.6,0.28
+French,240,461,18.0,17.8,0.43
+Bakery Products/Desserts,806,1922,18.0,19.4,1.51
+Mediterranean,247,421,17.9,17.8,0.48
+Pizza,1342,2754,17.7,17.5,1.09
+Chicken,600,1274,16.6,14.1,1.26
+American,3990,7847,16.2,15.0,0.65
+"Juice, Smoothies, Fruit Salads",417,890,15.8,13.6,0.56
+Sandwiches,394,972,15.4,12.9,1.13
+Frozen Desserts,300,569,14.6,11.6,0.53
+Coffee/Tea,1767,4034,14.0,10.4,0.67
+Tex-Mex,288,680,13.5,10.9,1.18
+Hamburgers,437,1124,11.9,6.3,0.53
+Donuts,510,1524,11.2,4.8,0.39
