@@ -2,7 +2,7 @@
 
 An analysis of **89,673 health inspections of 27,353 New York City restaurants** (January 2023 to October 2026), built with Python, SQL and Tableau.
 
-**Interactive dashboard:** [add your Tableau Public link] · **Tools:** Python (pandas), SQL (SQLite), Tableau Public
+**Interactive dashboard:** https://public.tableau.com/app/profile/joseph.nasr6142/viz/NYC_Restaurants_17918482745080/NYCRestaurantInspections2023-2026WhereandWhenKitchensFallShort?publish=yes · **Tools:** Python (pandas), SQL (SQLite), Tableau Public
 
 > Inspection scores work like golf: **lower is better**. The city awards an A for 0-13 points, a B for 14-27 and a C for 28 or more.
 
