@@ -6,7 +6,7 @@ An analysis of **89,673 health inspections of 27,353 New York City restaurants**
 
 > Inspection scores work like golf: **lower is better**. The city awards an A for 0-13 points, a B for 14-27 and a C for 28 or more.
 
-![Dashboard](figures/dashboard.PNG)
+![Dashboard](figures/dashboard.png)
 
 ## Business questions
 
