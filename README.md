@@ -11,7 +11,7 @@ An analysis of **89,673 health inspections of 27,353 New York City restaurants**
 ## Business questions
 
 1. How clean are NYC restaurants on a first, unannounced inspection?
-2. Which boroughs and cuisines perform worst, and which perform best?
+2. How do scores vary by borough and cuisine, and what explains the differences?
 3. What problems do inspectors find most often?
 4. Is there a time of year when conditions get worse?
 5. When a restaurant fails to earn an A, how often does it fix the problems by re-inspection?
@@ -19,7 +19,7 @@ An analysis of **89,673 health inspections of 27,353 New York City restaurants**
 ## Key findings
 
 - **The A in the window hides a rougher first visit.** 87% of posted letter grades are A, but only **60% of initial inspections** score in the A range, and **88%** cite at least one critical violation. Many restaurants earn their A only after fixing problems before the re-inspection.
-- **Cuisine matters more than borough.** Average initial scores range from **11.2 (donuts) and 11.9 (hamburgers)** to **25.0 (Indian), 23.4 (Thai) and 22.9 (Caribbean)**. Boroughs vary much less, from 17.1 in Manhattan and Staten Island to 19.0 in Queens. Menus that involve more cooking and holding of food have more ways to go wrong, so this partly reflects complexity, not just care.
+- **Menu complexity drives scores more than borough.** Cuisines whose menus involve more cooking steps, holding, and handling — such as Indian, Thai, and Caribbean — average higher initial scores (around 23–25) than simpler menus like donuts and hamburgers (around 11–12). This reflects how many opportunities there are for a violation to occur, not the care of the people running the restaurant. Cuisine labels are self-reported, and scores measure conditions on inspection day, not overall food safety.
 - **Pests and surfaces top the list.** Unclean or unsealed non-food surfaces appear in **44%** of inspections, conditions that attract pests in **27%**, and evidence of mice in **15%**.
 - **Summer is the riskiest season.** Initial scores average **19.3 in June-August versus 16.4 in December-February** (2024-2026), and closures per inspection peak in August.
 - **Re-inspections work.** Restaurants that miss an A on the initial inspection average 29.3 points, then **17.5 on the re-inspection**, and **63%** reach the A range.
